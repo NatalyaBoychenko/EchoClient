@@ -32,5 +32,7 @@ public class Main {
         } catch (IOException e){
             System.out.println("Client error: " + e.getMessage());
         }
+
+        System.out.println("Add new line after ");
     }
 }
